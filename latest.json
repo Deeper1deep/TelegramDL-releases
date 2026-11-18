@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
-  "versionName": "1.52",
-  "size": 37374522,
-  "sha256": "da203444cc91ca7b8318629f4841792bc5f7d607e6a56317df7fbee75a77da75",
-  "apkUrl": "https://github.com/Deeper1deep/TelegramDL-releases/releases/download/v1.52/TelegramDL.apk",
-  "releaseNotes": "Telegram DL 1.52"
+  "versionCode": 53,
+  "versionName": "1.53",
+  "size": 30666746,
+  "sha256": "967ff1bb716027619e8f0b87de95815e84333fa2380b6e58d5279c7ee4f10a3c",
+  "apkUrl": "https://github.com/Deeper1deep/TelegramDL-releases/releases/download/v1.53/TelegramDL.apk",
+  "releaseNotes": "Telegram DL 1.53"
 }
